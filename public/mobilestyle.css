@@ -308,6 +308,9 @@
         display: none;
     
     }
+    #button{ 
+        bottom:20px;}
+    
     #remoteVideo{
         width: 400px;
         height: 300px;
